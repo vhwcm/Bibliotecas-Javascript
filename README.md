@@ -27,6 +27,8 @@ It serves as a personal guide and a quick reference to avoid getting lost among 
 | **crypto-js**            | Funções de criptografia (hash, cifragem).                   | Cryptography functions (hashing, encryption).              | [npmjs.com/package/crypto-js](https://www.npmjs.com/package/crypto-js) |
 | **portfolio-analytics**  | Análise de carteira de investimentos.                       | Portfolio investment analysis.                             | [npmjs.com/package/portfolio-analytics](https://www.npmjs.com/package/portfolio-analytics) |
 | **brapi**                | API para consultar cotações do mercado brasileiro.           | API to fetch quotes from the Brazilian financial market.   | [brapi.dev](https://brapi.dev) |
+| **Baileys**              | Biblioteca para envio e leitura de mensagens no WhatsApp.    | Library for sending and reading WhatsApp messages.         | [github.com/WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) |
+| **jsPDF**                | Criação e exportação de documentos PDF no navegador ou Node. | Create and export PDF documents in the browser or Node.    | [github.com/parallax/jsPDF](https://github.com/parallax/jsPDF) |
 
 ---
 
